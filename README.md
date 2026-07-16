@@ -19,5 +19,18 @@ Here are some ideas to get you started:
 
 
 ---
+## 💻Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+
+---
+
+## 💫 About Me
+Hi there! I'm **NMINI**, a developer who loves learning and continuously growing.
+
+- 🚀 I am currently focusing on getting certified in **Python COS Pro**.
+- 🌱 I am passionate about exploring new technologies and writing efficient code.
+- ✍️ I share my learning journey and tech insights on my **[Velog Blog](https://velog.io/@dkswlals/posts)**.
+- 📫 Feel free to reach out for collaborations or inquiries at **guoranfabu@gmail.com**!
+
+---
