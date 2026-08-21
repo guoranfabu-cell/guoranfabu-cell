@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 💫 About Me
 Hi there! I'm **NMINI**, a developer who loves learning and continuously growing.
 
-- 🚀 I am currently focusing on getting certified in **Python COS Pro**.
+- 🚀 I am currently focusing on getting certified in **Java Swing | Java Class**.
 - 🌱 I am passionate about exploring new technologies and writing efficient code.
 - ✍️ I share my learning journey and tech insights on my **[Velog Blog](https://velog.io/@dkswlals/posts)**.
 - 📫 Feel free to reach out for collaborations or inquiries at **guoranfabu@gmail.com**!
